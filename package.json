@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "gostack-level-1-nodejs-concepts",
   "version": "1.0.0",
   "main": "src/server.js",
   "license": "MIT",
