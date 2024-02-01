@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Thiago Gouvêa" src="imgs/thiago_gouvea_half_black_icon_logo.png" width="200px" />
+  <img alt="Thiago Gouvêa" src="assets/thiago_gouvea_half_black_icon_logo.png" width="200px" />
 </p>
 
 <p align="center">
